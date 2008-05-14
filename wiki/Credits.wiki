@@ -1,4 +1,4 @@
 #summary Credits to various people who have contributed externally to the project.
 #labels Featured
 
-Special thanks goes to Gary Keith for the big job he does maintaining the [http://browsers.garykeith.com/ Browser Capabilities] project and offering such great support, as well as to [http://alexandre.alapetite.net/ Alexandre Alapetite] for pointing me in [http://alexandre.alapetite.net/doc-alex/php-local-browscap/index.en.html the right direction] and to the [http://www.bajoodoo.com/ guys from ba!joodoo for the first implementation of an interval based update version.
+Special thanks goes to Gary Keith for the big job he does maintaining the [http://browsers.garykeith.com/ Browser Capabilities] project and offering such great support, as well as to [http://alexandre.alapetite.net/ Alexandre Alapetite] for pointing me in [http://alexandre.alapetite.net/doc-alex/php-local-browscap/index.en.html the right direction] and to the [http://www.bajoodoo.com/ guys from ba!joodoo] for the first implementation of an interval based update version.
