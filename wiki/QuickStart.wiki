@@ -1,5 +1,5 @@
 #summary How to quickly setup your browser capabilities script without get_browser().
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
 
 =Code=
 
